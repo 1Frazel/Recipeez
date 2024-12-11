@@ -63,7 +63,7 @@ git clone https://github.com/1Frazel/recipeez.git
 Visit the [Spoonacular API website](https://spoonacular.com/food-api) and sign up to get your API key.
 
 ### Add Your API Key
-Insert your API key in `MainActivity.java`:
+Dont forget to change your API key:
 ```java
 private static final String API_KEY = "your_api_key_here";
 ```
