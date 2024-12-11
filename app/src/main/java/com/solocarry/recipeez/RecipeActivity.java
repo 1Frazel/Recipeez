@@ -27,7 +27,7 @@ import retrofit2.Callback;
 import retrofit2.Response;
 
 public class RecipeActivity extends AppCompatActivity {
-    private static final String API_KEY = "66fb3ff1a4a643298d466a07e1380f38";
+    private static final String API_KEY = "your_api_key";
     private SpoonacularApi spoonacularApi;
     private TabLayout tabLayout;
     private ViewPager2 viewPager;
