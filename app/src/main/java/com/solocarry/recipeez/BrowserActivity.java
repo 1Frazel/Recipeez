@@ -49,7 +49,7 @@ public class BrowserActivity extends AppCompatActivity {
     private FilterManager filterManager;
     private static final String TAG = "BrowserActivity";
     private SpoonacularApi spoonacularApi;
-    private static final String API_KEY = "66fb3ff1a4a643298d466a07e1380f38";
+    private static final String API_KEY = "your_api_key";
     private Call<RecipeResponse> currentCall;
 
     @Override
