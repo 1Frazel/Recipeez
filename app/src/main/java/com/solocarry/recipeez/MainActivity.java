@@ -57,7 +57,7 @@ public class MainActivity extends AppCompatActivity {
     private SearchFilter currentFilter;
     private FilterManager filterManager;
 
-    private static final String API_KEY = "66fb3ff1a4a643298d466a07e1380f38";
+    private static final String API_KEY = "your_api_key";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
