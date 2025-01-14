@@ -72,11 +72,11 @@ public class RecipeActivity extends AppCompatActivity {
                 startActivity(new Intent(this, MainActivity.class));
                 finish();
             } else if (itemId == R.id.navigation_cookbook) {
-                // TODO: Implement navigation
+
             } else if (itemId == R.id.navigation_cart) {
-                // TODO: Implement navigation
+
             } else if (itemId == R.id.navigation_meal_planner) {
-                // TODO: Implement navigation
+
             } else if (itemId == R.id.navigation_settings) {
                 startActivity(new Intent(this, SettingActivity.class));
                 finish();
