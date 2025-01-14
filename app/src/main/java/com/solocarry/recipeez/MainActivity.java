@@ -271,7 +271,7 @@ public class MainActivity extends AppCompatActivity {
             if (lastEmail != null) {
                 mainWelcomeTV.setText(lastEmail);
             } else {
-                mainWelcomeTV.setText("User not found");
+                mainWelcomeTV.setText("User is not found");
             }
         }
     }
